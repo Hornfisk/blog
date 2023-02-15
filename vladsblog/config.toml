@@ -1,0 +1,4 @@
+baseURL = 'https://vlads.blog/'
+languageCode = 'en-us'
+title = "VLAD'S BLOG"
+theme = 'SK3'

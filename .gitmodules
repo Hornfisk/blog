@@ -1,0 +1,4 @@
+[submodule "vladsblog/public"]
+	path = vladsblog/public
+	url = https://github.com/Hornfisk/vladsblog.github.io.git
+	branch = main
