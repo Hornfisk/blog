@@ -2,3 +2,6 @@
 	path = vladsblog/public
 	url = https://github.com/Hornfisk/vladsblog.github.io.git
 	branch = main
+[submodule "vladsblog/themes/sk3"]
+	path = vladsblog/themes/sk3
+	url = https://github.com/vladsblog/vladsblog.github.io.git
