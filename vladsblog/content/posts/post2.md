@@ -8,15 +8,15 @@ After many trials and tribulations, it appears that I've managed to set up SSH a
 
 The workflow currently looks something like this:
 
-'''
+````
 hugo newposts/[posttitle].md
 
 subl [posttitle].md
-'''
+````
 
 edit and save as needed, then from the root folder in the local blog repo:
 
-'''
+````
 git add .
 
 #checking if staged correctly
@@ -30,6 +30,8 @@ git commit -m "comment here"
 
 #and, at last:
 git push origin main
-'''
+````
 
 Now let's try and put this in practice and push and update that contains this actual post right here.
+
+Moreover, to push ALL the changes to Git, I need to be in the root folder – in my case, /blog.
